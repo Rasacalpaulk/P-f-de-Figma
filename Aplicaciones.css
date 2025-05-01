@@ -1,0 +1,108 @@
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+ 
+header.Nombre{
+    font-size: 15pt;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+ 
+header nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    padding-inline: 25px;
+}
+ 
+button {
+    background-color: #673ab7;
+    color: white;
+    font-size: 12pt;
+    padding: 5px 10px;
+    margin-inline: 10px;
+    font-family: 'Segoe UI', sans-serif;
+    border-radius: 10px;
+}
+ 
+button:hover {
+    transform: scale(1.1);
+    transition: linear 0.2s;
+}
+ 
+footer {
+    margin-top: 50px;
+    font-size: 9pt;
+    background: linear-gradient(to bottom, #9c1dce, #64008b);
+    padding-inline: 20px;
+    padding-block: 30px;
+    color: white;
+}  
+.c1{
+    margin-top: 25px;
+    background-color: aquamarine;
+    border-radius: 40px;
+    display: flex;
+    padding-bottom: 20px;
+ 
+}
+.Texto{
+    padding: 40px;
+    font: 1em sans-serif;
+}
+.c2{
+    margin-top: 30px;
+    background-color: rgb(255, 127, 159);
+    border-radius: 40px;
+    display: flex;
+    padding-bottom: 20px;
+ 
+}
+img{
+    border-radius: 15%;
+    width: 350px;
+    height: 300px;
+    margin-top: 80px;
+}
+ 
+.c3{
+    margin-top: 30px;
+    background-color: rgb(131, 255, 127);
+    border-radius: 40px;
+    display: flex;
+    padding-bottom: 20px;
+}
+
+.c4{
+    margin-top: 30px;
+    background-color: rgb(200, 249, 54);
+    border-radius: 40px;
+    display: flex;
+    padding-bottom: 20px;
+}
+
+#F1{
+    padding: 60px;
+}
+#F2{
+    padding: 60px;
+}
+#F3{
+    padding: 60px;
+}
+.Texto{
+    padding-top: 100px;
+}
+body{
+    margin: 0px;
+    background-color: rgb(247, 247, 237);
+    color: black;
+    font-family: 'Segoe UI', sans-serif;
+    
+}
+
